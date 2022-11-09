@@ -4,7 +4,7 @@ import streamlit.components.v1 as components
 st.set_page_config(
     layout='wide', initial_sidebar_state='collapsed',page_title='고1 수학 공식',page_icon='➕')
 
-menu = st.sidebar.selectbox('단원',['1단원.다항식','2단원.방정식과 부등식','3단원.도형의 방정식','4단원.집합과 명제','5단원.함수','6단원.경우의 수'])
+menu = st.sidebar.selectbox('단원',['1단원.다항식','2단원.방정식과 부등식','3단원.도형의 방정식'])
 
 st.write('이미지가 안뜬다면 메뉴를 다른 곳으로 바꿨다가 다시 돌아와 보세요(새로고침X)')
 
