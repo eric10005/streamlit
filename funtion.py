@@ -187,7 +187,7 @@ data = [
     {
         'category': '3단원.도형의 방정식',
         'url': 'https://blogger.googleusercontent.com/img/a/AVvXsEhq5_CIiH1_gbxuRh5-S8whEwWvmstxIDsxLvc0Z4Gr38Ha58X-UR0HQgxTFs1BadE9C2Ku8TrOfalE-LpCaYfqmLpc3YwTOdeInaPJQM5Qb_pWMS5RcZgMje4iPldCTtHcrAvkMmUe1U603z2-MHaKat65nZEk3922RMnpHYd0MrsRzbSyDeJgnNQnWg',
-        "name": '제목'
+        "name": '점과 직선 사이의 거리'
     },
     {
         'category': '3단원.도형의 방정식',
@@ -243,11 +243,6 @@ data = [
         'category': '3단원.도형의 방정식',
         'url': 'https://blogger.googleusercontent.com/img/a/AVvXsEjtJexHxkGxDaRWqLKTndyafVagL2uXm4mnTMCJ-qprcFkjWo8e78FS7mKY5o1t8jsovpa_qFIvnl6v1eegcPO_kvGlyAveGIPiELMqFZ0aMlmnWvfX6ReaXWHuF3pU1OgWbfHg6r--2945bMsE8bQwU1A414CVXl-Ut2MVHQCuLRly1Hs--GnnLPQ-gg',
         "name": '원 위의 점으로 부터 거리의 최대와 최소'
-    },
-    {
-        'category': '3단원.도형의 방정식',
-        'url': '',
-        "name": '제목'
     }
 ]
 
