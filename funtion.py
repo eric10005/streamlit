@@ -282,6 +282,4 @@ components.html(
     """, height=6000
 )
 
-#blog
-#깃허브 로그인 j527ms@gmail.com,jms527527 왼쪽 eric 스트림릿 누르기, add pile, upload pile, 내꺼 고르기
-#깃허브에 파일올리고 스트림릿 사이트에서 깃허브로 로그인, new app 클릭, 방금 깃허브에 올린 파일 누르기
+
